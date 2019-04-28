@@ -27,5 +27,5 @@ A collection of various write-ups created for rooms on tryhackme.com
 - UltraTech
 - Lord of the Root
 - VulnOS2
-
+- Pickle Ric
 
