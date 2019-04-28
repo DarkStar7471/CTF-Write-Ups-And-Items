@@ -26,6 +26,6 @@ A collection of various write-ups created for rooms on tryhackme.com
 - Car Hacking 101
 - UltraTech
 - Lord of the Root
-- 
+- VulnOS2
 
 
