@@ -36,10 +36,10 @@
 - After waiting a bit, we can see the our results have been generated:
   - ![alt text](./images/nmap-results-1.png?raw=true "nmap-results-1")
   - General port information
-  - ![alt text]()
+  - ![alt text](./images/nmap-results-2.png?raw=true "nmap-results-2")
   - Looks like the target system is vulnerable to ms17-010, otherwise known as Eternal Blue! We can exploit this to run arbitrary code on the target system
 - Let's start Metasploit
-  - ![alt text]()
+  - ![alt text](./images/msfconsole.png?raw=true "msfconsole")
 - And find ms17-010 related exploits
   - ![alt text]()
 - Our search results
