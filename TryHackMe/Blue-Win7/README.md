@@ -29,12 +29,12 @@
   - ![alt text](./images/ifconfig.png?raw=true "ifconfig")
 - Following finding the IP address of our attack box, we can move onto discovering the address of the vulnerable box we will be attacking. This can be done either via netdiscover or nmap. Nmap is demonstrated below with a few select flags added for vulnerability discovery.
   - nmap 
-  - ![alt text]()
+  - ![alt text](./images/nmap-cmd.png?raw=true "nmap-cmd")
   - -vv : Very verbose
   - -sS : Syn scan (can also use -sV for version numbers)
   - --script vuln : Check for vulnerabilities using the nmap scripting engine
 - After waiting a bit, we can see the our results have been generated:
-  - ![alt text]()
+  - ![alt text](./images/nmap-results-1.png?raw=true "nmap-results-1")
   - General port information
   - ![alt text]()
   - Looks like the target system is vulnerable to ms17-010, otherwise known as Eternal Blue! We can exploit this to run arbitrary code on the target system
