@@ -1,10 +1,10 @@
 # Directory
 
-![alt text](/images/htblogo.jpeg?raw=true "HTB Logo")
+![alt text](/images/htblogo.png?raw=true "HTB Logo")
 
 ***Description:***
 
-A collection of various write-ups created for rooms on tryhackme.com
+A collection of various write-ups created for rooms on hackthebox.com
 
 ***Related Hosting Links***
 
