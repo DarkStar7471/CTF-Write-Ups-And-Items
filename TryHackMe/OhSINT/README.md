@@ -25,7 +25,7 @@
 ***Instructions:*** 
 
 - As we begin to conquer this room, we are greeted by the following image
-  - ![alt text](./images/start.png?raw=true "start")
+  - ![alt text](./images/start.jpg?raw=true "start")
 - At first glance, this simple appears to be the Windows XP iconic default background. Let's go ahead and see what properties it has by running exiftool on it. Exiftool (https://en.wikipedia.org/wiki/ExifTool) is an common first step within steganography challenges, however, in this instance it allows us to view metadata about the photo.
   - ![alt text](./images/exiftool.png?raw=true "exiftool")
 - Interesting, it appears to be attributed to someone named "OWoodflint", let's try just googling that name
