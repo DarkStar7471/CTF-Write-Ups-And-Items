@@ -2,7 +2,7 @@
 
 # Windows 7 Capture the Flag
 
-![alt text](https://i.imgur.com/VO2P4Tm.gif)
+![alt text](./images/logo.gif?raw=true "Logo")
 
 **Source:** DarkStar7471 aka J0n
 
@@ -26,7 +26,7 @@
 
 - Start by first checking the IP address of the Kali (or other attack box) you are attacking from
   - ifconfig
-  - ![alt text](https://i.imgur.com/vA01pmM.png)
+  - ![alt text](./images/ifconfig.png?raw=true "ifconfig")
 - Following finding the IP address of our attack box, we can move onto discovering the address of the vulnerable box we will be attacking. This can be done either via netdiscover or nmap. Nmap is demonstrated below with a few select flags added for vulnerability discovery.
   - nmap 
   - ![alt text](https://i.imgur.com/iWmqxQI.png)
