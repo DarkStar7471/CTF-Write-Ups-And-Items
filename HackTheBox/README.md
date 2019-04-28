@@ -1,6 +1,6 @@
 # Directory
 
-![alt text](/images/htblogo.png?raw=true "HTB Logo")
+![alt text](./images/htblogo.png?raw=true "HTB Logo")
 
 ***Description:***
 

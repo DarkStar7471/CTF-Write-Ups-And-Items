@@ -1,6 +1,6 @@
 # Directory
 
-![alt text](/images/thmlogo.png?raw=true "THM Logo")
+![alt text](./images/thmlogo.png?raw=true "THM Logo")
 
 ***Description:***
 
