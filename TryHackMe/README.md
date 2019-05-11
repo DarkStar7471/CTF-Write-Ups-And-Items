@@ -11,7 +11,7 @@ A collection of various write-ups created for rooms on tryhackme.com
 - https://www.tryhackme.com
 
 
-***Completed:*** 
+***Completed:***
 
 - Blue-Win7
 - HeartBleed
@@ -20,12 +20,12 @@ A collection of various write-ups created for rooms on tryhackme.com
 - OhSINT
 - ToolsRus
 
-***In-Progress:*** 
+***In-Progress:***
 
 - GoldenEye
 - Car Hacking 101
 - UltraTech
 - Lord of the Root
 - VulnOS2
-- Pickle Ric
-
+- Pickle Rick
+- BasicPentesting

@@ -4,11 +4,11 @@
 
 ![alt text](./images/logo.gif?raw=true "Logo")
 
-**Source:** DarkStar7471 aka J0n
+**Source:** Created by DarkStar7471 aka J0n
 
 ***Description:***
 
-​	A realistic (at the time of writing) Windows box that is relatively simple in complexity. 
+​	A realistic (at the time of writing) Windows box that is relatively simple in complexity.
 
 ***Related Hosting Links***
 
@@ -22,13 +22,13 @@
 
 
 
-***Instructions:*** 
+***Instructions:***
 
 - Start by first checking the IP address of the Kali (or other attack box) you are attacking from
   - ifconfig
   - ![alt text](./images/ifconfig.png?raw=true "ifconfig")
 - Following finding the IP address of our attack box, we can move onto discovering the address of the vulnerable box we will be attacking. This can be done either via netdiscover or nmap. Nmap is demonstrated below with a few select flags added for vulnerability discovery.
-  - nmap 
+  - nmap
   - ![alt text](./images/nmap-cmd.png?raw=true "nmap-cmd")
   - -vv : Very verbose
   - -sS : Syn scan (can also use -sV for version numbers)
@@ -79,10 +79,10 @@
   - ![alt text](./images/migrate.jpg?raw=true "migrate")
 - Once you control a higher-privileged process, type hashdump
   - ![alt text](./images/hashdump.jpg?raw=true "hashdump")
-  - This will display the password hashes stored in the SAM database of the unit 
+  - This will display the password hashes stored in the SAM database of the unit
   - This password can be copied to text file and cracked. The specific one in use at the time of writing is within rockyou.txt
   - ![alt text](./images/save-hashes.jpg?raw=true "save-hashes")
-  - Hash file created and hashes copied in. File name is arbitrary here. 
+  - Hash file created and hashes copied in. File name is arbitrary here.
 - Look for the three flags spread throughout the system!
 
 

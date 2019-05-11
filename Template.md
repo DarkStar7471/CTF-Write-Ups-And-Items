@@ -1,28 +1,26 @@
-****
-
 # Template Capture the Flag
 
 ![alt text]()
 
-**Source:** 
+**Source:**
 
 ***Description:***
 
-​	
+​
 
 ***Related Hosting Links***
 
-- 
+-
 
 ***Special Notes:***
 
-​	
+​
 
 
 
-***Instructions:*** 
+***Instructions:***
 
-- 
+-
 
 
 
@@ -34,4 +32,4 @@
 
 ***Flags:***
 
-​	
+​
