@@ -36,7 +36,7 @@
   - ![alt text](./images/blog-source.png?raw=true "blog-source")
 - Bingo! Yeah, that's not a great place to store your password! We'll check the rest of the site, look's like he's traveling at the moment but I'm not seeing anything else here. Let's pivot to his twitter page
   - ![alt text](./images/twitter.png?raw=true "twitter")
-- A strange thing to tweet but interesting none the less, looks like he's tweeted a BSSID for a wifi point near where he lives. We'll check wigle.com, a site where war-drivers can share observed access points, to see if there's a chance that a wardriver has also spotted this access point. If you would like to learn about about wigle, check out their website to see if your wifi router has been marked and play around from there.
+- A strange thing to tweet but interesting none the less, looks like he's tweeted a BSSID for a wifi point near where he lives. We'll check wigle.com, a site where war-drivers can share observed access points, to see if there's a chance that a wardriver has also spotted this access point. If you would like to learn about about wigle, check out their website to see if your wifi router has been marked and play around from there. _Make sure to hit 'Filter' in order to search for results!!_
   - ![alt text](./images/wigle.png?raw=true "wigle")
   - ![alt text](./images/wigle-ap.png?raw=true "wigle-ap")
 - Looks like we're in luck! (If you have any difficulties with this, zoom far out and you'll see a purple icon appear.)  Hmm, let's see if we can find any other profiles associated with him. Let's see if he's submitted anything to github.
